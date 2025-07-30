@@ -20,7 +20,7 @@ I’m passionate about **clean code**, **scalable architectures**, and building 
 ### 🧠 My Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,next,beautifulsoup,mariadb,mongodb,next,selenium,postman,docker,vagrant" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,beautifulsoup,mariadb,mongodb,selenium,postman,docker,vagrant" height="40" />
 </div>
 
 ---
