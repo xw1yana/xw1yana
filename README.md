@@ -1,6 +1,17 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Yana</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student at Lviv Polytechnic National University</h3>
-<h3 align="center">I started programming 4 year ago. </h3>
-<h3 align="center">The main programming language is Python. </h3>
-<h3 align="center">I am also engaged in mastering various Python libraries and other technologies. </h3>
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
+
+<h1 align="center">Hello 👋 My name is Yana</h1>
+
+<div align="center">
+  <a href="https://t.me/xw1yana" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
