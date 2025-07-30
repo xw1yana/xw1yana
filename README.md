@@ -16,3 +16,11 @@ I'm a **Python Developer** specializing in **Python, Django, JS, etc.**.
 I’m passionate about **clean code**, **scalable architectures**, and building efficient solutions on the **backend**.
 
 ---
+
+### 🧠 My Skills
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,next,beautifulsoup,mariadb,mongodb,next,selenium,postman,docker,vagrant" height="40" />
+</div>
+
+---
